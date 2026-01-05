@@ -1,7 +1,7 @@
 # Churn-Prediction
 This Power BI project analyzes telecom customer data to identify churn patterns and key factors influencing customer attrition. Interactive dashboards provide insights into customer demographics, tenure, service usage, and billing behavior, helping to segment customers by churn risk and support data-driven retention strategies.
 
-KEY-INSIGHTS
+#### KEY-INSIGHTS
 New customers (0–12 months) show higher churn, while long-term customers are more stable.
 Senior citizens show higher churn percentage  compared  to Non-senior customers are more likely to stay.
 Monthly charges increase with tenure where Male and female charges follow a similar pattern
